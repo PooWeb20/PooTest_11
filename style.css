@@ -1,0 +1,97 @@
+body
+{
+    text-align: center;
+}
+
+.my_nav_bar
+{
+    background: linear-gradient(#4e1902e2 0%, #0a0f0c 100%);;
+    position:sticky;
+    top:0;
+    z-index:99999;
+    margin-bottom: 20px;
+}
+
+#myCarousel
+{
+    background-color: #c29467;
+    height: 300px;
+    width: 100%;
+}
+
+#myCarousel img
+{
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#home{
+    height: 550px;
+}
+
+#home img{
+    height: 350px;
+    width: 100%;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+#about{
+    height: 550px;
+}
+
+#services{
+    height: 550px;
+}
+
+#gallery{
+    height: 550px;
+}
+
+.gallery_img{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.gal_img{
+       
+    transition: transform 0.2s;
+}
+.gal_img:hover{
+    transform: scale(0.9);
+    border-radius: 25px;
+}
+
+#client{
+    height: 550px;
+}
+
+
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+input
+{
+    background: grey;
+}
+
+
